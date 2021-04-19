@@ -1,4 +1,4 @@
-#Welcome to Mamba Mindset
+# Welcome to Mamba Mindset
 ## Here you will find the basic qualities that I use to achieve the mindset of the ELITE!
 
 ##The Mindset
