@@ -1,2 +1,2 @@
-Hello from the outside
-My Name is Anthony
+# Learning-notes
+Welcome to my page about learning Notes
