@@ -7,6 +7,7 @@ Sure it's a knock off the late Great Kobe Bryant's Mamba Mentality. Yet the  Ess
  **YOUSELF**. It's the ability to accept your flaws and instead of beating yourself down with pity and avoidance. You learn to build apon them. Adopting this *NO EXCUSE* attitude can very much change your mental and physical capabilities.
  
  ** How?
+ 
  Easy! by followings these simple yet effective steps...
  
  1. Acknowlegde and Accept your shortcomings
