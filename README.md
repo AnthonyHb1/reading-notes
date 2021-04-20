@@ -1,7 +1,6 @@
 # Reading-notes
 
-# Welcome to my page!
-My name is Anthony and this is my page
+# Hello my name is Anthony and Welcome to my Software Developement Journey through Code Fellows!
 
 
 ## The Growth Mindset 
