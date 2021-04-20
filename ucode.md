@@ -28,11 +28,11 @@ However you spend it, is up to you but just something as little as understanding
 
 ## The Bomb.com
 
-Now that we touched on your chrome dome lets get to work. Deploy your first website
+Now that we touched on your chrome dome let's get to work. Deploy your first website
+
 ** Using Github
 
-1. Create account or sign in
-2. 
+
 
 
 
