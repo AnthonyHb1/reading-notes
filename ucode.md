@@ -30,7 +30,13 @@ However you spend it, is up to you but just something as little as understanding
 
 Now that we touched on your chrome dome let's get to work. Deploy your first website
 
-**Using Github
+*Using Github
+
+1.Create a repository, Select the git client used
+2.Clone the repository, Go to the folder where you want to put your project
+3.Enter the project folder and add an index.html file
+4.Add, commit, and commit your changes
+5.and that it!!! easy right now we need to add some meat and potatoes to this plate.
 
 
 
