@@ -1,6 +1,8 @@
 # Reading-notes
 
-# Hello my name is Anthony. Welcome to my page!
+# Welcome to my page!
+My name is Anthony and this is my page
+
 
 ## The Growth Mindset 
 The Growth mindset is the ability to identify, mangage and conquer your superfluities. By remaining resilient and persist through our daily struggles and moments of uncertainity by resulting to positive reenforcements to insure our maximium effort. Examples would include:
@@ -12,5 +14,6 @@ The Growth mindset is the ability to identify, mangage and conquer your superflu
 
 >"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." 2. "Just because something doesn't do what you planned it to do doesn't mean it's useless."- Thomas Edison
 >
+
 
 
