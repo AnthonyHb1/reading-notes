@@ -7,13 +7,13 @@
 - Mastering MD (markdown)
 - Resources
 
-WHAT'S YOUR MIND LIKE THESE DAYS?
+**WHAT'S YOUR MIND LIKE THESE DAYS?**
 
 Well here we are, at the brink of a new era... the new you! If you're switching or just starting your career, it is essestial to note that your mindset will be the deciding factor between success or failure.  Thats why we adopted the Growth Mindset, it's the ability to accept your flaws instead of beating yourself down with pity and doubt. You learn to build apon them. Adopting this *NO EXCUSE* attitude can very much change your mental and physical capabilities. As oppose to the fix mindset that would see no light at the end of that tunnel when challenges arise. You got this your a beast for even trying to improve. Go you!!
   
  ## How?
  
- Easy! by followings these simple, yet effective steps...
+ **Easy! by followings these simple, yet effective steps...**
  
  1. Acknowlegde and Accept your shortcomings
  - You've heard it before, acceptance is the first step. Which is true in this case as well. Its important to identify that your feelings a tad bit restless this morning and are having a hard time focusing. GREAT! You figured it out! now you can accept the fact that maybe it's time to take a break, do some push ups or even reup on your 5th cup of MOJO. 
@@ -28,7 +28,7 @@ However you spend it, is up to you but just something as little as understanding
 
 ## The Bomb.com
 
-Now that we touched on your chrome dome let's get to work. Deploy your first website
+**Now that we touched on your chrome dome let's get to work. Deploy your first website**
 
 **_Using Github_**
 
@@ -46,6 +46,10 @@ Now that we touched on your chrome dome let's get to work. Deploy your first web
 ## Mastering Md (Markdown)
 
 ### Now that the website is up let's beef it up, yeah?
+
+ Here is where your inspiration can go wild. Markdown allows you to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
+
+
 
 
 
