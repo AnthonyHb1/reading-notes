@@ -47,7 +47,11 @@ However you spend it, is up to you but just something as little as understanding
 
 ### Now that the website is up let's beef it up, yeah?
 
- Here is where your inspiration can go wild. Markdown allows you to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
+ Here is where your inspiration can go wild. Markdown allows you to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *. 
+ 
+Here is a link to further explain the Markdown code examples https://guides.github.com/features/mastering-markdown/#examples
+ 
+ 
 
 
 
