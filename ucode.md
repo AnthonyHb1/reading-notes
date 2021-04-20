@@ -5,6 +5,7 @@
 - Unlock your mindset. Fix vs Growth
 - Deploy your very first website
 - Mastering MD (markdown)
+- Resources
 
 WHAT'S YOUR MIND LIKE THESE DAYS?
 
@@ -25,6 +26,17 @@ However you spend it, is up to you but just something as little as understanding
 - A solid routine can make a solid developer. Incooperate useful tools into your daily routine that can improve your mindset. Such as *REST*, excerise, healthy diets and even a form a manstras. Note positive self talk and rest is huge! Staying up until 2-3 in the morning working on that assignment to get ahead. Sounds good to show your a boss at what you do yet, it is a double edge sword. Remember coding is a marathon not a sprint. Take from step one and utilize those breaks and recharge that money maker ( Your Brain). Now I'm not recommending you pick up a yoga mat and become a vegan. Yet they couldn't hurt. What I am proposing is, take time to hone in on your quality of living that can improve your productity. As said before hype yourself up, tell yourself "you got this" because errors and uncertainity can definitely ruin your mood or worst the day. So get like Flava Flav and get hype son! 
 
 
-# The Bomb.com
+## The Bomb.com
 
-Now that we touched on your chrome dome lets get to work. Deploying that website
+Now that we touched on your chrome dome lets get to work. Deploy your first website
+** Using Github
+
+1. Create account or sign in
+2. 
+
+
+
+
+
+
+
