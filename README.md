@@ -1,9 +1,10 @@
-# Reading-notes
+Reading-notes
 
-# Hello my name is Anthony and Welcome to my Software Developement Journey through Code Fellows!
+# Hello my name is Anthony
+## Welcome to my Software Developement Journey through Code Fellows!
 
 
-## The Growth Mindset 
+### The Growth Mindset 
 The Growth mindset is the ability to identify, mangage and conquer your superfluities. By remaining resilient and persist through our daily struggles and moments of uncertainity by resulting to positive reenforcements to insure our maximium effort. Examples would include:
 
 - Taking each failure or incomplete project as a learning experience
