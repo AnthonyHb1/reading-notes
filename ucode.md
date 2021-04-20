@@ -45,6 +45,9 @@ Now that we touched on your chrome dome let's get to work. Deploy your first web
 
 ## Mastering Md (Markdown)
 
+### Now that the website is up let's beef it up, yeah?
+
+
 
 
 
