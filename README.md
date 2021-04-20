@@ -1,5 +1,3 @@
-Reading-notes
-
 # Greetings, You can call me A1
 ## Welcome to my Software Developement Journey through Code Fellows!
 
