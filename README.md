@@ -9,6 +9,7 @@ The Growth mindset is the ability to identify, mangage and conquer your superflu
 - Annotate completed task throughout the day to recount on your accomplishments to keep you inspiried to do more
 - Knowing when to take a break. Can decrease the chances of avioding the **_Gumption Traps_** that can stagnant productivity.
 
+
 >"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." 2. "Just because something doesn't do what you planned it to do doesn't mean it's useless."- Thomas Edison
 >
 
