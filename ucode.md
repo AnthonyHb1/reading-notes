@@ -30,7 +30,7 @@ However you spend it, is up to you but just something as little as understanding
 
 Now that we touched on your chrome dome let's get to work. Deploy your first website
 
-** Using Github
+**Using Github
 
 
 
