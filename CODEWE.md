@@ -1,7 +1,12 @@
-# Welcome to the Mamba Mindset
-## 
+# Welcome to WECODE
+## HERE YOU CAN JOIN ME THROUGH MY JOURNEY TO BECOME A SOFTWARE DEVELOPER
 
-## Mamba Mindset???
+## CONTENTS
+- Shift Your mindset
+- Deploy your very first website
+
+
+
 
 Sure it's a knock off the late Great Kobe Bryant's Mamba Mentality. Yet the  Essestially the Mamba Mindset is the willingnes to overcome. It's the ability to understand and master 
  **YOUSELF**. It's the ability to accept your flaws and instead of beating yourself down with pity and avoidance. You learn to build apon them. Adopting this *NO EXCUSE* attitude can very much change your mental and physical capabilities.
