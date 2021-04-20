@@ -16,4 +16,4 @@ The Growth mindset is the ability to identify, mangage and conquer your superflu
 
 
 
-Follow me @ [Github Pages](https://
+Follow me @ [Github Pages](https://hbuniversity.github.io/reading-notes/)
