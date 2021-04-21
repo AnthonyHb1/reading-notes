@@ -1,6 +1,9 @@
 # TERMINAL CHEAT SHEET
 
-- Terminal= Is a text based interface to the system that responds with similar text.
-- ls= Means list items
-- Command Line Agruement=
+- Terminal Is a text based interface to the system that responds with similar text.
 
+- ls Means list items
+
+- Command Line Agruement
+
+- Options are used to modify the behavior of hte command, which usually listed before other agruements Usually starts with a (-)
