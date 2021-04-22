@@ -1,67 +1,67 @@
-# Version Controls
-
+## Version Controls
 system that allows you to revisit various versions of a file or a set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes.
 
-Local Version Control
+## Local Version Control
 entails one database on your hard disk that stores changes to files.
 
-Centralized Version Control
+## Centralized Version Control
 system entails a single server storing all changes and file versions, which can be accessed by various clients. Centralized Version Control System (CVS)
 
-Distributed Version Control
+## Distributed Version Control
 addresses the major vulnerability of the CVS: the server as a single point of failure. a DVCS allows clients to create mirrored repositories.
 
-What’s Git??
+## What’s Git??
 
-Snapshots
+## Snapshots
 Git is a DVCS that stores data in a file system made up of snapshots. Git creates a snapshot of the file and stores a reference to it.
 
-Local Operations
+## Local Operations
 Git mostly uses on local operation since a bulk of its information are from local resources.
 
-Tracking Changes
+## Tracking Changes
 Every single change applied to any file or directory is tracked by Git. And, as the gatekeeper, Git will always detect file corruption or loss of information in transit.
 
-Loss of Data
+## Loss of Data
 Git is set up too greatly minimize the possibility of accidentally lost data. Hence the snapshots, stored. Remember DVCS function
 
-States
+## States
 Git has three states Committed-Stored locally, Modified-Changed but not committed to database and Staged-Flagged a file’s changed version to be committed in the next snapshot
 
-Story about Git…
+## Story about Git…
 -roots to the open source software project Linux kernel
 -Linus Torvalds, the chief architect of the Linux kernel, began creating Git after the revocation of BitKeeper 02’-05’
 
-Graphical Clients
-it includes inherent Graphical User Interface (GUI) tools
+## Graphical Clients
+-it includes inherent Graphical User Interface (GUI) tools
 
-Initial Customization
-Configuration of Variables
-An inherent Git tool called git config allows the setting of configuration variables that control aspects of Git’s operation and look.
+## Initial Customization
+### Configuration of Variables
+- An inherent Git tool called git config allows the setting of configuration variables that control aspects of Git’s operation and look.
 
-Identity Setting
-After installing Git, users should immediately set the user name and email address, which will be used for every Git commit.
+## Identity Setting
+- After installing Git, users should immediately set the user name and email address, which will be used for every Git commit.
 
-Type the following into Terminal or Command Line:
-git config --global user.name "Jane Smith"
+## Type the following into Terminal or Command Line:
 
-git config --global user.email "example@email.com"
+- git config --global user.name "Jane Smith"
 
-To confirm that you have the correct settings, enter the following command:
-git config --global user.name (should return Jane Smith)
+- git config --global user.email "example@email.com"
 
-git config --global user.email (should return example@email.com)
+- To confirm that you have the correct settings, enter the following command:
+- git config --global user.name (should return Jane Smith)
 
-
-Default Text Editor
-Git will use the system’s default editor–most likely Vim. To configure a different text editor, such as Emacs, type the following into your Terminal or Command Line:
-$ git config --global core.editor emacs
+- git config --global user.email (should return example@email.com)
 
 
-Check Settings
-To check settings, use the git config --list command.
-Example:
-$ git config --list
+## Default Text Editor
+- Git will use the system’s default editor–most likely Vim. To configure a different text editor, such as Emacs, type the following into your Terminal or ## Command Line:
+- $ git config --global core.editor emacs
+
+
+## Check Settings
+- To check settings, use the git config --list command.
+- Example:
+- $ git config --list
 
 user.name=Jane Smith
 
