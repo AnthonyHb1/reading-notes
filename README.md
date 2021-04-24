@@ -12,9 +12,13 @@ The Growth mindset is the ability to identify, mangage and conquer your superflu
 > " Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." 2. "Just because something doesn't do what you planned it to do doesn't mean it's useless." - Thomas Edison
 >
 -[reading1](Reading1.md)
+
 -[reading2](Reading2.md)
+
 -[reading3](Reading3.md)
+
 -[reading4](hellowrld.md)
+
 -[reading5]()
 -[reading6]()
 -[reading7]()
