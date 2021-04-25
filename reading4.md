@@ -4,5 +4,5 @@
 
 ### New Vocabulary
 
-- HTML is made up of characters that live inside angled brackets (<html></html>) called elements
+- HTML is made up of characters that live inside angled brackets <html></html> called elements
 
