@@ -1,44 +1,58 @@
-## Version Controls
+# Version Controls
+
 system that allows you to revisit various versions of a file or a set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes.
 
 ## Local Version Control
+
 entails one database on your hard disk that stores changes to files.
 
 ## Centralized Version Control
+
 system entails a single server storing all changes and file versions, which can be accessed by various clients. Centralized Version Control System (CVS)
 
 ## Distributed Version Control
+
 addresses the major vulnerability of the CVS: the server as a single point of failure. a DVCS allows clients to create mirrored repositories.
 
 ## What’s Git??
 
 ## Snapshots
+
 Git is a DVCS that stores data in a file system made up of snapshots. Git creates a snapshot of the file and stores a reference to it.
 
 ## Local Operations
+
 Git mostly uses on local operation since a bulk of its information are from local resources.
 
 ## Tracking Changes
+
 Every single change applied to any file or directory is tracked by Git. And, as the gatekeeper, Git will always detect file corruption or loss of information in transit.
 
 ## Loss of Data
+
 Git is set up too greatly minimize the possibility of accidentally lost data. Hence the snapshots, stored. Remember DVCS function
 
 ## States
+
 Git has three states Committed-Stored locally, Modified-Changed but not committed to database and Staged-Flagged a file’s changed version to be committed in the next snapshot
 
 ## Story about Git…
+
 -roots to the open source software project Linux kernel
 -Linus Torvalds, the chief architect of the Linux kernel, began creating Git after the revocation of BitKeeper 02’-05’
 
 ## Graphical Clients
+
 -it includes inherent Graphical User Interface (GUI) tools
 
 ## Initial Customization
+
 ### Configuration of Variables
+
 - An inherent Git tool called git config allows the setting of configuration variables that control aspects of Git’s operation and look.
 
 ## Identity Setting
+
 - After installing Git, users should immediately set the user name and email address, which will be used for every Git commit.
 
 ## Type the following into Terminal or Command Line:
@@ -54,11 +68,14 @@ Git has three states Committed-Stored locally, Modified-Changed but not committe
 
 
 ## Default Text Editor
-- Git will use the system’s default editor–most likely Vim. To configure a different text editor, such as Emacs, type the following into your Terminal or ## Command Line:
+
+- Git will use the system’s default editor–most likely Vim. To configure a different text editor, such as Emacs, type the 
+following into your Terminal or ## Command Line:
 - $ git config --global core.editor emacs
 
 
 ## Check Settings
+
 - To check settings, use the git config --list command.
 - Example:
 - $ git config --list
@@ -87,7 +104,9 @@ man git-command
 
 Importing
 To import an existing project or directory into Git, follow these steps using the Terminal or Command Line:
-1. Switch to the target project’s directory Example: $ cd test (cd = change directory)
+
+1. Switch to the target project’s directory Example:$ cd test (cd = change directory)
+
 2. Use the git init command $ git init
 
 
@@ -115,8 +134,11 @@ To clone a repository into a directory with another name of your choosing, use t
 Workflow
 Local Repository Structure
 The local Git repository has three components:
+
 1. Working Directory: The actual files reside here.
+
 2. Index: The area used for staging
+
 3. Head: Points to the most recent commit.
 
 Saving Changes
