@@ -1,4 +1,4 @@
-# Greetings, You can call me A1
+# Greetings, My name is Anthony
 ## Welcome to my Software Developement Journey through Code Fellows!
 
 ### The Growth Mindset 
