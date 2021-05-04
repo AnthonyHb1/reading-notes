@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!-- This tells the browser what version I am using -->
+<html>
+  <head>
+    <title> This is the beginning of something special</title>
+    <style>
+      body {background-color: rgb(33, 43, 124);}
+      h1 {font-style:oblique;color: rgb(172, 197, 204);
+      background-color: #9078d3;}
+
+      li {color: #dddde9; 
+          display: inline;
+          margin: 20px;
+          text-align: center;
+    </style>
+  </head>
+  <body>
+    <main>
+     <header>
+         <h1>"CLASS 1 LAB"</h1>
+         <img style="border: 5px solid black" src="https://cdn4.vectorstock.com/i/1000x1000/46/38/abstract-background-with-matrix-vector-884638.jpg">
+          <ul style="background-color: aquamarine;">
+            <li>Lab assignment 1</li>
+            <li>Readings</li>
+            <li>else</li>
+          </ul>
+     </header>
+     <P style="background-color:cornsilk;color:cyan;" > What is your Name, Friend</P>
+
+     <p style="background-color: #2d89c7fb;color:#09008b " > How do you prefer your cocktail?</p>
+
+     <p style="background-color: black;color: grey;"> what would you like to pair it with</p>
+
+     <p style="background-color: darksalmon;color:#15299b;"> Did you enjoy the questions before entering?</p>
+    </main>
+    <footer> This site is created, managed and designed by HB5 </footer>
+    <script>
+      console.log("Hello wrld");
+         let userName = prompt ("Hello User, What's your name");
+         console.log("The user is named, userName");
+         alert("Welcome to my world " + userName);
+         let prefDrink = prompt ("How do you prefer your cocktail? \Straight up? \Iced?");
+         console.log(" this is userName preferred, favDrink");
+         alert("Great Choice " + prefDrink + " always taste better");
+         let userAnswer = prompt("What's your favorite drink?");
+         console.log(" The userName favorite drink is, prefDrink");
+         let favMusic = prompt("what kind of music would you like to have set");
+         console.log(" userName option of music, is favMusic");
+         alert("Sweet! Come on in with your "  + userAnswer + " served " + prefDrink + " along your choice of " + favMusic + " music");
+         let userOpt = prompt("Did you enjoy the questions before entry");
+         console.log(" this is the opinion of querstionaire, userOpt");
+         if (userOpt === 'yes') {
+           alert("Awesome! I'll add more!")
+         } else if (userOpt === 'no') {
+           alert('OH WELL I AM STILL ADDING MORE!');
+         }
+
+         </script>
+  </body>
+</html>
